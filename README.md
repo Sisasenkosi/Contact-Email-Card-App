@@ -1,3 +1,4 @@
+This app is for adding email contact cards, with the ability to delete them too
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
